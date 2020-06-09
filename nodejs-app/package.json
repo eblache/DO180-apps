@@ -9,6 +9,7 @@
 	"start":"node server.js"
   },
   "dependencies": {
-    "express": "4.x"
+    "express": "4.x",
+    "html-errors": "latest"
   }
 }
